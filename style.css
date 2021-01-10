@@ -1,0 +1,23 @@
+.header{
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+}
+.description{
+    text-align: center;
+    background-color: aqua;
+}
+.others{
+    background-color: mediumspringgreen;
+}
+
+.matter{
+    background-color: khaki;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+.about{
+    background: border-box;
+    background-color: rgb(142, 216, 226);
+}
